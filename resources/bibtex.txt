@@ -1,0 +1,9 @@
+@misc{cheng2025implicitukan20dynamicefficient,
+      title={Implicit U-KAN2.0: Dynamic, Efficient and Interpretable Medical Image Segmentation}, 
+      author={Chun-Wun Cheng and Yining Zhao and Yanqi Cheng and Javier Montoya and Carola-Bibiane Schönlieb and Angelica I Aviles-Rivero},
+      year={2025},
+      eprint={2503.03141},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2503.03141}, 
+}
